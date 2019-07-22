@@ -1,0 +1,22 @@
+{
+  "name": "KLToolsLibrary",
+  "version": "1.0",
+  "summary": "tools -- KLToolsLibrary",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LWiding/KLToolsLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KL": "377509050@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/LWiding/KLToolsLibrary.git",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KLToolsLibrary/Classes/**/*"
+}
